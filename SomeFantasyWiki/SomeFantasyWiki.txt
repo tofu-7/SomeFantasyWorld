@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-03-09T00:41:21-08:00
-
-====== Some Fantasy World Wiki ======
-Created Tuesday 09 March 2021
-
