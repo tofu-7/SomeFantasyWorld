@@ -5,4 +5,5 @@ Creation-Date: 2021-03-10T21:20:52-08:00
 ====== DivineMagic ======
 Created Wednesday 10 March 2021
 
-Magic practioned by [[TheGods]] and their cousins.
+"A wizard did it!" -HelloFutureMe
+Magic practioned by [[TheGods]] and their cousins. While distinct from [[FieldMagic]] it is belived that divine magic also draws from [[TheField|TheField.]] Divine magic is much less well understood than [[FieldMagic]] it is often able to bypass the cumbersome forms and languages. It is thought because of this the magic is much more powerful but less predicatable. This is also often the magic found in nature (the more natural magic is often better understood as i cant be related directly to a field though it still often bypasses form, language, and energy requirments). There are occasionally mortals who are blessed by a divine being who can use a form of [[HybridMagic]] . Often the limits of their powers are related to the relative strengh of the being that gave it to them.

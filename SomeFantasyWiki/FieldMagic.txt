@@ -6,3 +6,30 @@ Creation-Date: 2021-03-10T21:20:13-08:00
 Created Wednesday 10 March 2021
 
 Magic that relies on [[TheField]] .
+
+===== [[SubFields]] =====
+The Field is composed of a set of [[SubFields]]  these are:
+* Chaos
+* Heat / Cold
+* Life / Death
+* Light / Dark
+* Elemental
+* Space
+* Time
+Some sub-fields list two areas, these fields are the same but could be intepreted differently depening on use. For example the light field deals with the prescene and abscense of light.
+
+===== Natural Prescence of Magic =====
+Magic is naturally present through out the world, it becomes more or less intense in the same places as [[TheField]] itself. Specific [[SubFields]] also vary in strength, though dont signifigantly deviate from [[TheField]] itself. The effects of magic at a place are genreally depenent on the subfields. Often natural magic is better classified as [[DivineMagic]] as it is being practioned by no one. (except for perhaps one of [[TheGods]] or bored [[NatureSpirits]] )
+
+===== Use of Magic =====
+(See [[UsingFieldMagic]] )
+There are three componets that a mortal needs to manipulate [[TheField]] : The [[MagicForms|Magic Form]] , the [[MagicLanguages|Magic Language]] , and Energy.
+
+==== [[MagicForms]] ====
+The magic form is the medium that is used as a receptical for the magic language, it can be almost anything, a drawing, martial art, song, etc. Frequently there a varitations within a form for each [[SubFields|SubField.]] For example the heat field and light field might have a different basic stance in a martial form.
+
+==== [[MagicLanguages]] ====
+The magical languages are a set of ancient languages thought to be passed down from gods, they allow for specifics when manipulating [[TheField]] by layering them onto a form. As with the forms the language does not nesceraily need to be spoken, just communicated, however one could argue  mediums with higher information density (ex writing as opposed to movment) would allow more in depth manipulation with greater ease.
+
+==== Energy ====
+Manipulating [[TheField]] requires a great amount of energy, it can be drawn from many sources. The primary source of energy is [[TheField]] itself and a large amount of a practitioners work is discorvering how to drawn from their own connection with [[TheField]] and finding the most efficient form for aquiring energy. Often the secondary sources of energy are either the practitioners own physical strength or material things which can be used as energy.

@@ -5,7 +5,13 @@ Creation-Date: 2021-03-10T00:13:10-08:00
 ====== Home ======
 Created Wednesday 10 March 2021
 
-===== Useful Pages =====
-[[WorldBuildingReferences]]
 
-===== Core Assumptions of the World =====
+===== Useful Pages =====
+* [[WorldBuildingReferences]]
+
+===== Overveiw Pages =====
+* [[MagicGeneral]]
+
+===== Recent Work (Updated probably never) =====
+* [[FieldMagic]] 
+

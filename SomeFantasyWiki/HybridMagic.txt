@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-11T02:38:57-08:00
+
+====== HybridMagic ======
+Created Thursday 11 March 2021
+
+Hybrid magic is a combination of [[FieldMagic]] and [[DivineMagic]] frequently praciticed by mortals who have recived some level of divine power from a divine being. This form usually does not allow the practitioner to bypass form or langauge requirments, though it often will partially bypass energy ones. Divine power can in a way be thought of as another energy soruce to drawn from when preforming [[FieldMagic]] . Though i frequently can only be used in ways related to the being it was granted by.
