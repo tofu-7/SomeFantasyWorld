@@ -8,14 +8,14 @@ Created Tuesday 09 March 2021
 ===== Useful References =====
 
 ==== G.R.A.P.E.S. ====
-{{file:///D:/worldbuildstuff/SomeFantasyWorld/Images/References/c4cc83c.png?height=1000}}
+{{..\Images\References\c4cc83c.png?width=400}}
 ==== EPIC LANDS ====
-{{file:///D:/worldbuildstuff/SomeFantasyWorld/Images/References/79095ae-1.jpg?width=450}}
+{{..\Images\References\79095ae-1.jpg?width=400}}
 ==== Checklist For Civilizations ====
-{{file:///D:/worldbuildstuff/SomeFantasyWorld/Images/References/3d11bfa.png?width=650}}
+{{..\Images\References\3d11bfa.png?width=600}}
 ==== World Creation Tree ====
-{{file:///D:/worldbuildstuff/SomeFantasyWorld/Images/References/dd2e485.png?width=650}}
+{{..\Images\References\dd2e485.png?width=600}}
 ==== Web Of Worldbuilding ====
-{{file:///D:/worldbuildstuff/SomeFantasyWorld/Images/References/d935401.jpg?width=1000}}
+{{..\Images\References\d935401.jpg?width=1000}}
 ==== Character Checklist ====
-{{file:///D:/worldbuildstuff/SomeFantasyWorld/Images/References/8828c9b.png?width=1000}}
+{{..\Images\References\8828c9b.png?width=600}}
