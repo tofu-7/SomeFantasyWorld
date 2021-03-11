@@ -9,4 +9,3 @@ Created Wednesday 10 March 2021
 [[WorldBuildingReferences]]
 
 ===== Core Assumptions of the World =====
-shrug

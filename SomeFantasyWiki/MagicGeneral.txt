@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-10T00:08:10-08:00
+
+====== MagicGeneral ======
+Created Wednesday 10 March 2021
+
+There are fundamentally two systems of magic within the world. The first, [[FieldMagic]] , is a well understood system which involves manipulation of [[TheField]] a field of magic that permeates through the world and can be controlled through ancient languages and symbology. The second, [[DivineMagic]] ,is not necssearily separate from the first, but is much less understood and much more powerful though it is signifigantly less predicatable, almost all practitioners are [[TheGods]] and those close to them.
+
+===== [[FieldMagic]] =====
+The magic propogated by the field can be controlled by those with knolwedge of one of the [[MagicLanguages]] and the [[MagicForms]] , a set of Languages and methods of forming shapes respectivley. (See [[FieldMagic]] )
+
+===== [[DivineMagic]] =====
+The Magic of [[TheGods]] is related to [[TheField]] however it is different, often not requiring special forms to practice, and is rarley if ever used by mortals.
+

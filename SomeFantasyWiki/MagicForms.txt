@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-10T22:23:59-08:00
+
+====== MagicForms ======
+Created Wednesday 10 March 2021
+
+The set of forms used in control of [[FieldMagic]] including everything from martial arts, to music.
